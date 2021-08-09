@@ -1,8 +1,8 @@
-# Frontend - NameOfTheProject
+# Frontend - Order summary component
 
 <!-- Summary -->
 
-<!-- This is a solution to the [NameOfTheProject]( URL of it). Frontend Mentor challenges help you improve your coding skills by building realistic projects. -->
+This is a solution to the [Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
