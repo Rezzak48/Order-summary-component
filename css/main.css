@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 :root {
   /* Colors */
@@ -11,14 +13,34 @@
   --very-pale-blue: hsl(225, 100%, 98%);
   --desaturated-blue: hsl(224, 23%, 55%);
   --dark-blue: hsl(223, 47%, 23%);
+  --card-background: white;
 
   /* Typography */
   --body: 16px; /*(paragraph)*/
+  --normal-weight: 500;
+  --bold-weight: 700;
+  --bolder-weight: 900;
+
+  --h1-size: 28px;
+
+  --p-line-height: 26px;
 }
 body {
   font-size: var(--body);
+  font-family: "Red Hat Display", sans-serif;
   background-color: var(--pale-blue);
   display: flex;
   justify-content: center;
   align-items: center;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: var(--h1-size);
+  color: var(--dark-blue);
+  font-weight: var(--bolder-weight);
+}
+p {
+  line-height: 26px;
+  color: var(--desaturated-blue);
 }
