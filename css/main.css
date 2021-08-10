@@ -2,6 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  text-decoration: none;
 }
 :root {
   /* Colors */
@@ -16,14 +17,13 @@
   --card-background: white;
 
   /* Typography */
-  --body: 16px; /*(paragraph)*/
+  --body: 1rem; /*(paragraph)*/
   --normal-weight: 500;
   --bold-weight: 700;
   --bolder-weight: 900;
+  --h1-size: 1.75rem;
 
-  --h1-size: 28px;
-
-  --p-line-height: 26px;
+  --p-line-height: 1.625rem;
 }
 body {
   font-size: var(--body);
@@ -33,6 +33,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  padding: 3.125rem 1.5625rem;
 }
 
 h1 {
@@ -41,6 +42,6 @@ h1 {
   font-weight: var(--bolder-weight);
 }
 p {
-  line-height: 26px;
+  line-height: 1.625rem;
   color: var(--desaturated-blue);
 }
