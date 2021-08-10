@@ -25,26 +25,27 @@ Users should be able to:
 
 ### Screenshot
 
-<!-- ![](./DesignScreenshots/DesktopScreen.png)
-![](./DesignScreenshots/MobileVersion.png) -->
+![](./DesignScreenshots/DesktopScreen.png)
+![](./DesignScreenshots/MobileVersion.png)
 
 ### Links
 
-<!-- - Live Site URL: [Live Site URL:](linkHere)
-- Solution URL: [Solution URL:](linkHere) -->
+- Live Site URL: [Live Site URL:](https://suspicious-lovelace-8dc1f6.netlify.app/)
+- Solution URL: [Solution URL:](https://www.frontendmentor.io/solutions/order-summary-component-html-css-Ff4o3ABy0)
 
 ## My process
 
 ### Built with
 
 <!-- Info -->
-<!-- - Semantic HTML5 markup
+
+- Semantic HTML5 markup
 - CSS custom properties
-- Flex box -->
+- Flex box
 
 ### What I learned
 
-<!-- I learned more about  -->
+practicing more about using rem it is really helpful more much than px unit
 
 ## Author
 
