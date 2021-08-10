@@ -45,7 +45,8 @@ Users should be able to:
 
 ### What I learned
 
-- I get a feedback saying that The element "a" must not appear as a descendant of the button element bcz it harms accessibility, and cause an error !Ensure interactive controls are not nested! it was a new thing for me, so I tried another way to make a button behave as a link😊
+- edit 1 : I get a feedback saying that The element "a" must not appear as a descendant of the button element bcz it harms accessibility, and cause an error !Ensure interactive controls are not nested! it was a new thing for me, so I tried another way to make a button behave as a link😊
+- edit 2 : I got another feedback about HTML Validations, saying that The element button must not appear as a descendant of the a element, so I am trying new way 😊
 - practicing more about using rem it is really helpful more much than px unit
 
 ## Author
